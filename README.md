@@ -31,4 +31,5 @@ https://github.com/user-attachments/assets/3df49a1d-a72a-4253-885d-5a942bdcd92e
 <img src="https://github.com/pacificblaster1708/6D-Pose-Estimation-Proposal/blob/main/Point%20Cloud%20and%20RGB-Depth/0_depth.png" width="500">
 
 
-<img src="https://github.com/pacificblaster1708/6D-Pose-Estimation-Proposal/blob/main/Point%20Cloud%20and%20RGB-Depth/Actual_image_open3d.jpg" width="250"><img src="https://github.com/pacificblaster1708/6D-Pose-Estimation-Proposal/blob/main/Point%20Cloud%20and%20RGB-Depth/rgb_depth_open3d.jpg" width="250">
+<img src="https://github.com/pacificblaster1708/6D-Pose-Estimation-Proposal/blob/main/Point%20Cloud%20and%20RGB-Depth/Actual_image_open3d.jpg" width="250"><img src="https://github.com/pacificblaster1708/6D-Pose-Estimation-Proposal/blob/main/Point%20Cloud%20and%20RGB-Depth/rgb_depth_open3d.jpg" width="250">![Pointcloud_open3d 1](https://github.com/user-attachments/assets/c464ee2c-48e0-4dad-b53f-958f99fd8d35)
+

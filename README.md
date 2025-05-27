@@ -17,7 +17,7 @@ Code from FastSAM github [repo](https://github.com/CASIA-IVA-Lab/FastSAM) for in
 
 **Pipeline**
 
-Using the [LiheYoung/depth-anything-Large-hf](https://huggingface.co/LiheYoung/depth-anything-large-hf) model a depth image is generated from RGB image.
+Using the [LiheYoung/depth-anything-Large-hf](https://huggingface.co/LiheYoung/depth-anything-large-hf) or [intel-isl/MiDaS](https://pytorch.org/hub/intelisl_midas_v2/) models a depth image is generated from RGB image.
 
 Then Open3d Library is used to filter and create the point cloud.
 

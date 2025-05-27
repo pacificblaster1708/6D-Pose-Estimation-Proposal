@@ -5,7 +5,7 @@ import cv2
 import time
 
 model = FastSAM('FastSAM-s.pt')
-frame = cv2.imread(r"C:\Users\ESHWAR\OneDrive\Desktop\rocket.jpg")
+frame = cv2.imread(IMAGE_PATH)
 
 DEVICE = torch.device(
     "cuda"
